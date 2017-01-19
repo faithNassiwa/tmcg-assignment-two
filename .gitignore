@@ -1,4 +1,6 @@
 
+.gitignore
+.idea/
+db.sqlite3
 settings.py
-.idea
 *.pyc
